@@ -1,0 +1,4 @@
+#Wed Oct 18 19:45:21 BTT 2023
+base.0=/home/zeref/MiniProject/programme_information_management_system/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

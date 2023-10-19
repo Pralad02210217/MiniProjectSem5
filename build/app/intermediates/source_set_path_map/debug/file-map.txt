@@ -1,0 +1,12 @@
+com.example.programme_information_management_system.app-jetified-window-1.0.0-beta04-0 /home/zeref/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.programme_information_management_system.app-jetified-annotation-experimental-1.1.0-1 /home/zeref/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.programme_information_management_system.app-core-1.6.0-2 /home/zeref/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.programme_information_management_system.app-jetified-window-java-1.0.0-beta04-3 /home/zeref/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.programme_information_management_system.app-debug-4 /home/zeref/MiniProject/programme_information_management_system/android/app/src/debug/res
+com.example.programme_information_management_system.app-main-5 /home/zeref/MiniProject/programme_information_management_system/android/app/src/main/res
+com.example.programme_information_management_system.app-pngs-6 /home/zeref/MiniProject/programme_information_management_system/build/app/generated/res/pngs/debug
+com.example.programme_information_management_system.app-resValues-7 /home/zeref/MiniProject/programme_information_management_system/build/app/generated/res/resValues/debug
+com.example.programme_information_management_system.app-rs-8 /home/zeref/MiniProject/programme_information_management_system/build/app/generated/res/rs/debug
+com.example.programme_information_management_system.app-mergeDebugResources-9 /home/zeref/MiniProject/programme_information_management_system/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.programme_information_management_system.app-mergeDebugResources-10 /home/zeref/MiniProject/programme_information_management_system/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.programme_information_management_system.app-merged_res-11 /home/zeref/MiniProject/programme_information_management_system/build/app/intermediates/merged_res/debug
